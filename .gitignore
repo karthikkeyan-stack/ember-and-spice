@@ -41,3 +41,4 @@ Thumbs.db
 # runtime uploads (uploads are stored in the database, not on disk)
 /public/uploads/*
 !/public/uploads/.gitkeep
+.env*
